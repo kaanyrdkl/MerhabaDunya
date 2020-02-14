@@ -11,6 +11,7 @@ namespace MerhabaDunya
         static void Main(string[] args)
         {
             Console.WriteLine("MerhabaDunya");
+            Console.WriteLine("Selamlar");
         }
     }
 }
